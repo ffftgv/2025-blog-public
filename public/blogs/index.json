@@ -1,38 +1,5 @@
 [
   {
-    "slug": "texture-format",
-    "title": "图片格式 —— 关于材质的大小研究",
-    "tags": [
-      "图片压缩",
-      "webp"
-    ],
-    "date": "2025-11-25",
-    "summary": "压缩图片的讨论",
-    "cover": "/blogs/texture-format/2c7d9391c47a1876.jpg"
-  },
-  {
-    "slug": "kuangyeshidai",
-    "title": "狂野时代",
-    "tags": [
-      "影评",
-      "日常"
-    ],
-    "date": "2025-11-22",
-    "summary": "观《狂野时代》后感",
-    "cover": "/blogs/kuangyeshidai/e260bea5dbfda5b7.jpg"
-  },
-  {
-    "slug": "liquid-grass",
-    "title": "好玩的液态玻璃",
-    "tags": [
-      "液态玻璃",
-      "ios"
-    ],
-    "date": "2025-11-21",
-    "summary": "很简单就能实现这个液态玻璃效果，真棒",
-    "cover": "/blogs/liquid-grass/0e7190ecaedc4930.png"
-  },
-  {
     "slug": "readme",
     "title": "2025 Blog 的使用引导",
     "tags": [
